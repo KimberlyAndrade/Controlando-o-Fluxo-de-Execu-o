@@ -1,0 +1,15 @@
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\bin\Debug\net6.0\Aula_4.exe
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\bin\Debug\net6.0\Aula_4.deps.json
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\bin\Debug\net6.0\Aula_4.runtimeconfig.json
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\bin\Debug\net6.0\Aula_4.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\bin\Debug\net6.0\Aula_4.pdb
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.csproj.AssemblyReference.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.AssemblyInfoInputs.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.AssemblyInfo.cs
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.csproj.CoreCompileInputs.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\refint\Aula_4.dll
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.pdb
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\Aula_4.genruntimeconfig.cache
+C:\Users\KIMBE\Downloads\Arquivos Pessoais\Curso DIO\Controlando o Fluxo de Execução\Aula_4\obj\Debug\net6.0\ref\Aula_4.dll
